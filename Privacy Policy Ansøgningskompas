@@ -1,0 +1,55 @@
+Privatlivspolitik
+Sidst opdateret: 2026-03-31
+
+Her beskriver vi, hvordan Ansøgningskompas behandler personoplysninger, når du bruger websiden eller appen til at udarbejde et forslag til en jobansøgning.
+
+Dataansvarlig
+NoorLyfe
+CVR: 37575852
+E-mail: hej@ansogningskompas.dk
+
+Hvem må bruge tjenesten?
+Tjenesten er rettet mod voksne jobsøgende. Er du under 16 år, skal du have samtykke fra forælder eller værge før du indsender personlige oplysninger; tjenesten er ikke målrettet mindreårige.
+
+Formål og grundlag
+Vi behandler oplysninger for at levere tjenesten: at generere et forslag til en ansøgning ud fra det CV og den jobkontekst, du selv indtaster eller uploader, og for at gennemføre betaling via App Store eller Google Play.
+
+Behandlingen sker efter GDPR art. 6, stk. 1, litra b (nødvendig for opfyldelse af en aftale med dig) og, hvor det er relevant, litra a (samtykke, fx hvis du aktivt vælger at uploade CV), samt litra f (berettiget interesse i fx forebyggelse af misbrug og teknisk drift).
+
+Hvilke oplysninger indgår?
+
+CV som PDF: Filen sendes til serveren i forbindelse med generering. Tekst udlæses midlertidigt for at lave ansøgningsforslaget.
+Jobkontekst: Fx jobtitel, virksomhedsnavn, link eller tekst fra jobopslag, dine noter/fokus — det du selv indgiver.
+Betalingsrelateret: Køb verificeres af Apple eller Google. Vi modtager tekniske købsbevis (kvittering/token) i det omfang det kræves for at bekræfte, at generering må leveres.
+Teknisk drift: Som ved al hosting kan der forekomme logning (fx fejl, trafik) hos infrastrukturudbyder — ikke en persondatabase i appen.
+Gemmer vi dine oplysninger på serveren?
+Ansøgningskompas er bygget uden traditionel brugerdatabase. CV og felter gemmes ikke som filer på serveren mellem trin; de sendes sammen med et gyldigt købsbevis i ét teknisk kald, når genereringen udføres. Behandling sker i hukommelsen under forespørgslen og frigives derefter.
+
+Den genererede tekst vises til dig i appen/web; det er dit ansvar at gemme eller kopiere det du har brug for på din egen enhed.
+
+Drifts- og fejllogs (uden ansøgningsindhold)
+For at kunne undersøge om en fejl skyldes tjenesten (fx afvist køb eller generering), skriver vi strukturerede hændelseslogge: tidspunkt, anonymt henvisnings-id, hvilket teknisk trin der fejlede, og HTTP-status. Hvis noget går galt, kan du få vist et henvisnings-id til support — det knytter kun til den tekniske hændelse.
+
+I disse log gemmes ikke din ansøgningstekst, dit CV, jobtitler, virksomhedsnavne eller fritekst fra formularen.
+
+Tredjeparter (databehandlere / modtagere)
+
+Anthropic (Claude): Til selve tekstgenereringen sendes bl.a. udtrukket CV-tekst og jobkontekst til Anthropic (med hjemmebase i USA). Deres behandling er underlagt deres egne vilkår og privatlivspolitik: https://www.anthropic.com/legal/privacy. Hvor der overføres personoplysninger uden for EU/EØS, sker det i overensstemmelse med gældende regler for internationale overførsler (fx EU-Kommissionens standardkontraktbestemmelser eller tilsvarende mekanismer), i det omfang de finder anvendelse.
+Apple App Store / Google Play: Håndterer betaling og kvitteringer efter deres vilkår.
+Joblink (valgfrit): Hvis du angiver en URL, kan serveren midlertidigt hente offentlig sideindhold for at understøtte dit opslag — uden at gemme en separat kopi til senere brug i appen.
+Lokalt på din enhed
+Under brug af tjenesten kan der forekomme kortvarig lagring eller visning af data på din egen enhed (fx mens du udfylder formularen eller ser resultatet i samme session). Det er ikke en cloud-backup af dit ansøgningsforslag.
+
+Opbevaring
+Vi har ikke et brugerlogin eller en profil, hvor ansøgninger arkiveres. Server-side begrænser sig til det, der følger af almindelig drift og eventuel pligt i lov (fx regnskabsbilag vedr. køb — i det omfang det vedrører dig, ligger primært hos appbutikken).
+
+Dine rettigheder (GDPR)
+Du har efter databeskyttelsesforordningen bl.a. ret til indsigt, berigtigelse, sletning, begrænsning og dataportabilitet, samt ret til at gøre indsigelse, hvor det finder anvendelse. Du kan klage til Datatilsynet.
+
+Ret henvendelser til kontakten for dataansvarlig (ovenfor). Hvis behandlingen hos en tredjepart er selvstændig (fx udelukkende hos Apple), skal du også kunne rette henvendelse dér efter deres procedurer.
+
+Ændringer
+Vi kan opdatere politikken, når tjenesten ændres. Dato for seneste version står øverst på siden.
+
+Ingen juridisk rådgivning
+Teksten her er til gennemsigtighed om praksis i produktet. Den erstatter ikke individuel juridisk rådgivning.
